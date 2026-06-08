@@ -1,8 +1,6 @@
-# rajsen05-README.md
-
 <h1 align="center">Hey 👋What's Up?</h1>
-
 <h1 align="center"> 👋, I'm Raj Sen</h1>
+
 <h3 align="center">A passionate tech enthusiast , mentor, and community contributer with interests in web3, Open source, Cloud Technology, and Ai-droven Solution. I enjoy building, learning, and guiding other in their tech journey.</h3>
 
 
@@ -45,12 +43,10 @@ Driven by curiosity and a growth mindset, Where as my consistently works toward 
 
 ###
 
-
-
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.shion.dev/api?username=rajsen05&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
 ![](https://streak-stats.demolab.com/?user=rajsen05&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=Md-Moinuddin01&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=rajsen05&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
 
 **📢 Let's connect together**
