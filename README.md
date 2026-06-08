@@ -67,7 +67,7 @@ Driven by curiosity and a growth mindset, Where as my consistently works toward 
 <div align="center">
   <a href="#">
   <img alt="Thanks for visiting!" 
-       src="https://readme-typing-svg.herokuapp.com?font=Righteous&size=28&duration=2500&color=00FFAA&center=true&vCenter=true&width=400&lines=Visit+again+to+Moinu+git+profile;Thanks+for+visiting!;Have+a+great+day,+Coder!;">
+       src="https://readme-typing-svg.herokuapp.com?font=Righteous&size=28&duration=2500&color=00FFAA&center=true&vCenter=true&width=400&lines=Visit+again+to+Raj+git+profile;Thanks+for+visiting!;Have+a+great+day,+Coder!;">
     </a>
 </div>
 
