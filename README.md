@@ -8,7 +8,7 @@ With hands-on experience in web development, open-source initiatives, and tech c
 
 Driven by curiosity and a growth mindset, Where as my consistently works toward improving his technical skills while contributing to meaningful projects and initiatives. mine goal is to grow as a responsible technologist and create solutions that empower people and communities through technology.
 
-- 🌱 I’m currently learning **CSE, Data science , Openshift ,**
+- 🌱 I’m currently learning **CSE, Data science , Openshift**
 
 - 👯 I’m looking to collaborate on **Cloud nativr projects**
 
